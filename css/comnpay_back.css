@@ -1,0 +1,72 @@
+#comnpay_configuration .float_left {
+	float: left;
+}
+
+#comnpay_configuration .plateforme {
+	display:block;
+	float:left;
+	margin-top:3px;
+}
+
+#comnpay_configuration .choix_plateforme {
+	vertical-align:middle;
+	display:block;
+	float:left;
+	margin-top:2px;
+	margin-right:3px;
+}
+
+#comnpay_configuration .label_plateforme  {
+	display:block;
+	float:left;
+	text-align:left;
+	width:80px;
+}
+
+#comnpay_configuration .homologation {
+	color:#900;
+}
+
+#comnpay_configuration .production {
+	color:#080;
+}
+
+.alert_comnpay_admin
+{
+	background-color: rgb(223, 240, 216);
+	border-bottom-color: rgb(60, 118, 61);
+	border-bottom-left-radius: 3px;
+	border-bottom-right-radius: 3px;
+	border-bottom-width: 0px;
+	border-image-outset: 0px;
+	border-image-repeat: stretch;
+	border-image-slice: 100%;
+	border-image-width: 1;
+	border-left-color: rgb(144, 203, 92);
+	border-left-style: solid;
+	border-left-width: 3px;
+	border-right-color: rgb(60, 118, 61);
+	border-right-style: none;
+	border-right-width: 0px;
+	border-top-color: rgb(60, 118, 61);
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+	border-top-width: 0px;
+	box-sizing: border-box;
+	color: rgb(60, 118, 61);
+	display: block;
+	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	height: 47px;
+	line-height: 17.1428394317627px;
+	margin-bottom: 17px;
+	padding-bottom: 15px;
+	padding-left: 50px;
+	padding-right: 15px;
+	padding-top: 15px;
+	position: relative;
+	width: 100%;
+}

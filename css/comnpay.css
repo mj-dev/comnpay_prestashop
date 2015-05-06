@@ -1,0 +1,26 @@
+#module-comnpay-payment #center_column
+{ 
+	width:757px;
+}
+
+.label_return_pending
+{
+	font-size: 25px;
+	font-weight: bold;
+	color: #3B3B3A;
+	border-style: solid;
+	border-width: 8px;
+	border-color: #F39217;
+	background-color: #F39217;
+}
+
+.label_return_authorised
+{
+	font-size: 25px;
+	font-weight: bold;
+	color: #3B3B3A;
+	border-style: solid;
+	border-width: 8px;
+	border-color: #96CA2D;
+	background-color: #96CA2D;
+}

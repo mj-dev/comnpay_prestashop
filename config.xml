@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>comnpay</name>
+            <displayName><![CDATA[ComNpay]]></displayName>
+            <version><![CDATA[1.2.0]]></version>
+            <description><![CDATA[Accepte les paiements par CB avec comNpay]]></description>
+            <author><![CDATA[Afone]]></author>
+            <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall>Êtes-vous sûr de vouloir désinstaller ?</confirmUninstall>
+            <is_configurable>1</is_configurable>
+            <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+        </module>
